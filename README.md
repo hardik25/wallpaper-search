@@ -13,3 +13,5 @@ App created in React, for searching photos using Unsplash API and displaying in 
 # To use:
 
 Enter the search term in the text box, and press Enter or press the Search Button.
+
+# https://hardik25.github.io/photo-search/
